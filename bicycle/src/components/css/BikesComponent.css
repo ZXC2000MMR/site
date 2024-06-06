@@ -1,0 +1,44 @@
+.div_ace{
+    display: flex;
+}
+.bike_ace{
+    width: 505px;
+    height: 500px;
+}
+.bike_ivy{
+    width: 505px;
+    height: 500px;
+}
+.main_div{
+    display: flex;
+    margin-left: 160px;
+    font-family:Raleway;
+    margin-top: 240px;
+}
+.div_ivy{
+    display:flex;
+}
+.colors,.colors1{
+    margin-left: 200px;
+}
+.main_div_ivy{
+    margin-left: 460px;
+}
+.left,.right{
+    margin-bottom: 240px;
+}
+.t1,.t3{
+    margin-left: -20px;
+    font-weight: 500;
+    font-size: 30px;
+}
+.sup{
+    font-size: 10px;
+}
+.t2,.t4{
+    position: relative;
+    margin-top: 40px;
+    margin-left: 220px;
+    font-size: 20px;
+    font-weight: 400;
+}
